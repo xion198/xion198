@@ -3,12 +3,12 @@
 const recentPosts = [
 {
   title: "How to Install and Setup Php Mysql in Termux?",
-  permalink: "https://termhub.xyz/post/how-to-install-and-setup-php-mysql-in-termux/",
+  permalink: "https://termhub.xyz/xion198/post/how-to-install-and-setup-php-mysql-in-termux/",
   date: "1707381492000"
 },
 {
   title: "Unlock Your Phone's Secret Superpower: The Beginer's Termux Guide.",
-  permalink: "https://termhub.xyz/post/unlock-your-phones-secret-superpower-the-beginer-termux-guide/",
+  permalink: "https://termhub.xyz/xion198/post/unlock-your-phones-secret-superpower-the-beginer-termux-guide/",
   date: "1706942163000"
 },
 ];
