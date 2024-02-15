@@ -11,7 +11,7 @@ document.addEventListener('DOMContentLoaded', function() {
 
   // Search functionality:
   var searchData = document.createElement('script');
-  searchData.src = "/js/search.js";
+  searchData.src = "/xion198/js/search.js";
   document.head.appendChild(searchData);
   
   var idx;
